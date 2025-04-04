@@ -2,7 +2,7 @@
 
 ## Step 1 — Create a new GitHub Repo
 
-![1000062097.png](GitHub%20Repo%201cbae4acd4f180c3b156df15c594885e/1000062097.png)
+create GitHub repository 
 
 ## Step 2 — Initialize Git in the project folder
 
